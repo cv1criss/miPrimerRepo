@@ -2,4 +2,6 @@
 
 Mi primer repositorio
 
-Miprimera contribucion local para github
+Mi primera contribucion local para GitHub
+
+Un commit mas desde GitHub
